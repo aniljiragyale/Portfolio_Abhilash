@@ -1,0 +1,46 @@
+.about {
+  
+  padding: 6rem 2rem 4rem;
+  background: linear-gradient(135deg, #fdfdfd, #e0f7fa);
+  color: #333;
+  display: flex;
+  align-items: flex-start; /* Aligns to the top */
+}
+
+.about-container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.about-heading {
+  font-size: 2.8rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #007acc;
+}
+
+.about-content {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  margin-bottom: 2rem;
+  color: #444;
+}
+
+.resume-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #00bcd4;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(0, 188, 212, 0.3);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.resume-button:hover {
+  background-color: #0097a7;
+  transform: translateY(-2px);
+}

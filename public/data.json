@@ -1,0 +1,118 @@
+{
+  "navbar": {
+    "logo": "DevFolio",
+    "links": ["Home", "About", "Certifications", "Projects", "Skills", "Contact"]
+  },
+  "hero": {
+    "title": "Hi, I'm Abhilash Badiger",
+    "subtitle": "Aspiring Full Stack Developer",
+    "description": "I’m a passionate developer focused on building impactful web applications using modern technologies. I'm looking for opportunities to grow and contribute in a dynamic tech environment.",
+    "image": "/profile.jpg"
+  },
+  "about": {
+    "heading": "Who Am I?",
+    "content": "I'm a Computer Science graduate eager to step into the software development industry. With hands-on experience in building full stack applications using React, Node.js, and Firebase, I'm ready to bring innovative ideas and learn from real-world challenges.",
+    "resume": "/resume.pdf"
+  },
+  "certifications": [
+  {
+    "title": "Full Stack Web Development Bootcamp",
+    "issuer": "Coursera"
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "issuer": "Stanford Online"
+  },
+  {
+    "title": "Java Programming and Software Engineering",
+    "issuer": "Duke University"
+  },
+  {
+    "title": "Frontend Development with React",
+    "issuer": "Meta (Coursera)"
+  },
+  {
+    "title": "Backend Development with Node.js and Express",
+    "issuer": "IBM (Coursera)"
+  },
+  {
+    "title": "Responsive Web Design",
+    "issuer": "freeCodeCamp"
+  },
+  {
+    "title": "Python for Everybody",
+    "issuer": "University of Michigan"
+  },
+  {
+    "title": "Google IT Automation with Python",
+    "issuer": "Google (Coursera)"
+  },
+  {
+    "title": "DevOps Fundamentals",
+    "issuer": "edX"
+  },
+  {
+    "title": "Introduction to Cloud Computing",
+    "issuer": "IBM (Coursera)"
+  }
+]
+,
+  "projects": [
+    {
+      "name": "Smart Shop - E-Commerce Platform",
+      "description": "A responsive e-commerce website for camera and accessories built using React, Firebase, and Stripe for payment integration.",
+      "link": "#"
+    },
+    {
+      "name": "MyPortfolio Website",
+      "description": "A personal portfolio to showcase my projects, certifications, and technical skills, built with React and JSON-based data structure.",
+      "link": "#"
+    },
+    {
+      "name": "Student Dashboard",
+      "description": "A Firebase-powered dashboard for tracking student performance including marks, attendance, and analytics charts.",
+      "link": "#"
+    }
+  ],
+  "skills": [
+  {
+    "category": "Frontend",
+    "technologies": ["React", "HTML", "CSS", "JavaScript", "Tailwind CSS", "Bootstrap", "Redux"]
+  },
+  {
+    "category": "Backend",
+    "technologies": ["Node.js", "Express.js", "Java", "Spring Boot", "REST API", "JWT Authentication"]
+  },
+  {
+    "category": "Database",
+    "technologies": ["MongoDB", "Firebase", "MySQL", "PostgreSQL", "SQLite"]
+  },
+  {
+    "category": "DevOps & Tools",
+    "technologies": ["Git", "GitHub", "Postman", "Vercel", "Netlify", "Docker", "CI/CD", "Jenkins"]
+  },
+  {
+    "category": "Cloud Platforms",
+    "technologies": ["Google Cloud Platform (GCP)", "Firebase", "AWS (EC2, S3)", "Heroku"]
+  },
+  {
+    "category": "Artificial Intelligence / Machine Learning",
+    "technologies": ["Python", "TensorFlow", "Scikit-learn", "NumPy", "Pandas", "OpenCV"]
+  },
+  {
+    "category": "Programming Languages",
+    "technologies": ["Java", "Python", "JavaScript", "C", "C++"]
+  },
+  {
+    "category": "Soft Skills",
+    "technologies": ["Problem Solving", "Team Collaboration", "Agile Methodology", "Communication", "Time Management"]
+  }
+]
+
+,
+  "contact": {
+    "email": "jane.doe@example.com",
+    "phone": "+1234567890",
+    "message": "I'm currently looking for opportunities as a Junior Developer or Full Stack Intern. Let's connect and build something great!"
+  }
+}
